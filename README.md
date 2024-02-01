@@ -22,7 +22,7 @@
  
 
 ###
-About me ❤️
+About me 
 - 19
 - beginner at coding
 - compsi student
