@@ -1,7 +1,6 @@
 <h2 align="left">Hi :)</h2>
 
-###
-[![Wakatime Stats](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Time%20on%20Wakatime&query=%24%5B%3F%28%40%5B%27grand_total%27%5D%29%5D.grand_total.hours&url=https%3A%2F%2Fwakatime.com%2Fapi%2Fv1%2Fusers%2FRymouu%2Fstats%3Fapi_key%3Dwaka_95e85893-78ef-4a8b-8324-a21b565c50f3)](https://wakatime.com/@Rymouu)
+[![Wakatime Stats](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Wakatime%20Stats&query=%24%5B%3F%28%40%5B%27grand_total%27%5D%29%5D.grand_total.hours&url=https%3A%2F%2Fwakatime.com%2Fapi%2Fv1%2Fusers%2FRymouu%2Fstats%3Fapi_key%3Dwaka_95e85893-78ef-4a8b-8324-a21b565c50f3)](https://wakatime.com/@Rymouu)
 
 
 
