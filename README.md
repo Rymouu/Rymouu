@@ -1,12 +1,9 @@
 <h2 align="left">Hi :)</h2>
 
 ###
+[![Wakatime Stats](https://img.shields.io/badge/dynamic/json?color=brightgreen&label=Time%20on%20Wakatime&query=%24%5B%3F%28%40%5B%27grand_total%27%5D%29%5D.grand_total.hours&url=https%3A%2F%2Fwakatime.com%2Fapi%2Fv1%2Fusers%2FRymouu%2Fstats%3Fapi_key%3Dwaka_95e85893-78ef-4a8b-8324-a21b565c50f3)](https://wakatime.com/@Rymouu)
 
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Rymouu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="400" width="400" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rymouu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="400" width="400" alt="Most Used Languages" />
 
-</div>
 
   
 </div>
